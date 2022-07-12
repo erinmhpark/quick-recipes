@@ -1,22 +1,20 @@
-# quick-recipes
+1. Quick Recipes: Haani's kitchen
 
-📍 Todo's 
 
-- Use h1 heading for the name of each recipes 
-- Create a list for each recipes on index.html page 
+2. Description: 
+This is a landing page template. 
+Ideally, it can be used for food blog's landing page, brief team/service intro for company's website. 
 
-1. Create initial structure 
-    ✅ 1-1. create directories and files 
 
-2. Recipe page 
-    ✅ 2-1. create four pages for recipes 
+3. Demo: 
+https://erinmhpark.github.io/quick-recipes/
 
-3. Recipe page content 
-    3-1. h1 heading for name of the dish 
-    3-2. an image of the dish under h1 
-    3-2. description heading with one or two paragraph to demonstrate recipe 
-    3-3. ingredients heading, contents with an unordered list below
-    3-4. steps heading, contents with an ordered list below 
 
-4. Link recipe pages to index.html 
+4. What to fix: 
+    1) This page is not responsive. 
+    2) links to each recipes are not fully working yet.
 
+
+5. Things to add: 
+    1) Search feature can be added. 
+    2) Pop-up for mailing list can be added. 
